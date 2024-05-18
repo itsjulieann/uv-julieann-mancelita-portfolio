@@ -19,7 +19,7 @@ dfx start --clean
         "type": "assets"
       }
     },
-    "dfx": "0.17.0",
+    "dfx": "0.20.0",
     "version": 1
   }
 ```
